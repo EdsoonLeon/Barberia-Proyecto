@@ -73,11 +73,11 @@ export default function PiePagina() {
               <div className="titulo-columna-pie">CONTACTO</div>
               <p className="enlace-pie">
                 <i className="bi bi-geo-alt-fill icono-pie"></i>
-                Av. La Mar 482, Miraflores, Lima
+                Av. Olaya con Revolucion, V.E.S :)
               </p>
               <p className="enlace-pie">
                 <i className="bi bi-telephone-fill icono-pie"></i>
-                +51 987 654 321
+                +51 925 161 035
               </p>
               <p className="enlace-pie">
                 <i className="bi bi-envelope-fill icono-pie"></i>
