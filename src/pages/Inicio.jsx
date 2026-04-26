@@ -18,10 +18,7 @@ export default function Inicio() {
               <span className="texto-seccion">NUESTROS SERVICIOS</span>
             </div>
             <h2 className="titulo-seccion">Servicios destacados</h2>
-            <p className="texto-ayuda">
-              Esta sección usa <code className="codigo-inline">map()</code> para
-              mostrar tarjetas a partir de un arreglo local.
-            </p>
+            
           </div>
           <div className="col-lg-4 text-lg-end mt-3 mt-lg-0">
             <Link to="/servicios" className="boton-agregar d-inline-flex align-items-center gap-2">
