@@ -28,7 +28,7 @@ export default function BarraNavegacion({ totalCarrito }) {
 
         <div className="collapse navbar-collapse" id="menuPrincipal">
           <div className="navbar-nav mx-auto">
-            <NavLink className="nav-link" to="/">Inicio</NavLink>
+            <NavLink className="nav-link" to="/" end>Inicio</NavLink>
             <NavLink className="nav-link" to="/servicios">Servicios</NavLink>
             <NavLink className="nav-link" to="/productos">Productos</NavLink>
           </div>

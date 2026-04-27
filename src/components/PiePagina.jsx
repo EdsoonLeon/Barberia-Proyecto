@@ -20,7 +20,7 @@ export default function PiePagina() {
               <div className="linea-marca"></div>
               <div className="subtitulo-marca">BARBERÍA PREMIUM · LIMA, PERÚ</div>
               <p className="descripcion-marca">
-                Más de 10 años perfeccionando el arte del estilo masculino.
+                Más de 2 años perfeccionando el arte del estilo masculino.
                 Técnica clásica con visión contemporánea.
               </p>
 
@@ -52,7 +52,7 @@ export default function PiePagina() {
 
             <div className="col-lg-2 col-md-4">
               <div className="titulo-columna-pie">NAVEGACIÓN</div>
-              <NavLink className="enlace-pie" to="/">Inicio</NavLink>
+              <NavLink className="enlace-pie" to="/" end>Inicio</NavLink>
               <NavLink className="enlace-pie" to="/servicios">Servicios</NavLink>
               <NavLink className="enlace-pie" to="/productos">Productos</NavLink>
               <NavLink className="enlace-pie" to="/reserva">Reserva</NavLink>
@@ -109,7 +109,7 @@ export default function PiePagina() {
               © 2026 <span>The Classic Line</span> — Todos los derechos reservados
             </p>
             <p className="texto-derechos mb-0">
-              Hecho con <span>React + Bootstrap</span> · Cibertec 2026
+              Hecho con <span>React + Bootstrap</span>
             </p>
           </div>
         </div>
